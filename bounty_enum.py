@@ -10,7 +10,7 @@ cool_effect = "#"*60
 print(cool_effect)
 print("\n\tBug bounty enumeration\n\n")
 print(cool_effect)
-ṕrint("WARNING: Don't use this in any domain with a selected directory, like domain.com/en")
+print("WARNING: Don't use this in any domain with a selected directory, like domain.com/en")
 
 
 if (len(sys.argv) < 2):
