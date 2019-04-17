@@ -2,8 +2,8 @@
 Simple script to enumerate a target that can be useful for bug bounties
 
 
-# How to run
-To run this you got to make sure you have some tools 
+# How to install
+To install this script all you have to do is run install.sh to install the following tools: 
 
 * nmap
 * dir scanner (still being implemented)
